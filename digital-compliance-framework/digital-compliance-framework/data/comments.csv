@@ -1,0 +1,221 @@
+comment_id,platform,comment_text,engagement_rate
+1,Instagram,How can I get in touch?,3.21
+2,Facebook,Please share more details.,2.98
+3,Facebook,This was super helpful.,2.82
+4,YouTube,How can I get in touch?,3.16
+5,YouTube,Please share more details.,2.96
+6,Facebook,This was super helpful.,2.79
+7,YouTube,This was super helpful.,3.33
+8,Facebook,Great work by the team. Email: user707@example.org,3.18
+9,Facebook,Great work by the team.,3.3
+10,Instagram,This was super helpful.,2.95
+11,YouTube,This was super helpful.,3.04
+12,YouTube,How can I get in touch?,2.95
+13,YouTube,Where can I download?,2.98
+14,Instagram,Where can I download?,3.25
+15,Instagram,Great work by the team. Email: user231@example.org,3.0
+16,Instagram,Where can I download?,3.29
+17,Facebook,Please share more details.,3.28
+18,Facebook,This was super helpful.,3.71
+19,Instagram,Please share more details.,2.85
+20,Facebook,Please share more details. Call me at 919-262-7594.,3.42
+21,YouTube,Please share more details.,3.18
+22,YouTube,Loved this content!,3.2
+23,Instagram,Please share more details.,2.84
+24,YouTube,Great work by the team.,3.08
+25,YouTube,Please share more details. Call me at 919-330-6768.,3.39
+26,Instagram,Great work by the team.,3.18
+27,Instagram,This was super helpful.,3.22
+28,Facebook,This was super helpful.,3.13
+29,Instagram,Loved this content!,3.49
+30,Instagram,Great work by the team. Call me at 919-444-4971.,3.19
+31,Instagram,This was super helpful. Call me at 919-224-9489. SSN 123-45-6789 (should be removed).,2.65
+32,YouTube,Please share more details.,3.03
+33,YouTube,Where can I download?,2.71
+34,YouTube,Loved this content!,2.39
+35,Facebook,Loved this content!,3.07
+36,YouTube,Great work by the team.,3.53
+37,Instagram,Please share more details.,3.21
+38,YouTube,Loved this content!,2.91
+39,Facebook,Loved this content! Email: user123@example.org,2.96
+40,YouTube,This was super helpful.,3.48
+41,YouTube,Where can I download?,3.24
+42,Facebook,Where can I download? SSN 123-45-6789 (should be removed).,3.21
+43,Instagram,How can I get in touch?,3.19
+44,Facebook,This was super helpful.,3.21
+45,Instagram,Where can I download? Call me at 919-598-2658.,3.4
+46,Facebook,How can I get in touch?,3.34
+47,YouTube,Where can I download? SSN 123-45-6789 (should be removed).,3.25
+48,Instagram,Loved this content!,2.94
+49,Instagram,This was super helpful.,3.33
+50,Facebook,This was super helpful.,3.03
+51,Instagram,Where can I download? Email: user914@example.org SSN 123-45-6789 (should be removed).,3.47
+52,Instagram,How can I get in touch?,2.88
+53,YouTube,Please share more details.,3.17
+54,Instagram,Please share more details.,3.2
+55,YouTube,Where can I download?,2.87
+56,YouTube,Please share more details.,3.63
+57,Facebook,Loved this content! Call me at 919-448-3931.,3.57
+58,Instagram,Where can I download?,3.08
+59,Facebook,Loved this content!,3.39
+60,Instagram,Where can I download? Call me at 919-849-2975.,3.29
+61,Instagram,This was super helpful.,2.55
+62,Instagram,Loved this content!,3.26
+63,Facebook,How can I get in touch? Call me at 919-555-4540.,3.18
+64,YouTube,Loved this content! Email: user844@example.org,3.22
+65,Instagram,How can I get in touch? Email: user493@example.org,2.93
+66,YouTube,How can I get in touch? Email: user388@example.org,3.13
+67,Instagram,Please share more details.,3.16
+68,YouTube,Where can I download? Call me at 919-387-7733.,3.5
+69,Facebook,Great work by the team.,3.28
+70,YouTube,How can I get in touch?,3.2
+71,Facebook,How can I get in touch?,3.58
+72,YouTube,Great work by the team.,3.06
+73,Facebook,Please share more details.,3.1
+74,Instagram,This was super helpful.,2.75
+75,YouTube,How can I get in touch?,3.59
+76,Facebook,Please share more details. Call me at 919-602-8466.,3.44
+77,Facebook,This was super helpful.,3.43
+78,Facebook,Please share more details. Call me at 919-918-5801.,3.37
+79,Instagram,Please share more details. Email: user787@example.org,3.23
+80,YouTube,Please share more details.,3.25
+81,YouTube,This was super helpful.,3.14
+82,Facebook,Loved this content! Call me at 919-495-8273.,3.15
+83,Instagram,Please share more details.,3.21
+84,YouTube,Loved this content!,3.58
+85,Facebook,Great work by the team. Email: user147@example.org,3.34
+86,Instagram,Where can I download?,3.19
+87,Instagram,Loved this content! Email: user266@example.org,3.06
+88,Instagram,Please share more details.,3.04
+89,Instagram,Where can I download?,3.6
+90,YouTube,Great work by the team.,3.33
+91,YouTube,Where can I download?,3.22
+92,Facebook,Great work by the team.,3.11
+93,Instagram,Great work by the team.,2.92
+94,Instagram,Where can I download? Call me at 919-736-1833.,3.18
+95,YouTube,Where can I download?,3.42
+96,Facebook,Loved this content!,3.1
+97,YouTube,Great work by the team.,3.14
+98,Instagram,This was super helpful.,3.14
+99,YouTube,This was super helpful.,3.23
+100,YouTube,Where can I download?,2.8
+101,Facebook,Great work by the team.,3.14
+102,Instagram,Where can I download?,2.99
+103,Instagram,Loved this content! Call me at 919-489-2356.,3.42
+104,Instagram,Loved this content!,3.01
+105,Facebook,How can I get in touch?,3.34
+106,Instagram,Please share more details.,3.58
+107,Instagram,This was super helpful. Call me at 919-267-9926.,3.12
+108,Facebook,This was super helpful. Email: user743@example.org,3.05
+109,Instagram,Great work by the team.,3.25
+110,Instagram,This was super helpful. Call me at 919-630-3055. Email: user708@example.org,3.2
+111,Facebook,Please share more details.,2.95
+112,Facebook,Please share more details.,3.32
+113,YouTube,Great work by the team. Call me at 919-954-8204.,3.7
+114,Facebook,How can I get in touch? SSN 123-45-6789 (should be removed).,3.14
+115,YouTube,Great work by the team. Email: user44@example.org,3.15
+116,Facebook,Where can I download? Call me at 919-399-5569.,2.94
+117,Facebook,Loved this content! SSN 123-45-6789 (should be removed).,3.28
+118,YouTube,How can I get in touch?,2.89
+119,Instagram,Please share more details. Call me at 919-885-3862. Email: user839@example.org SSN 123-45-6789 (should be removed).,2.92
+120,Facebook,Please share more details. Call me at 919-710-6698. Email: user269@example.org,3.52
+121,YouTube,Loved this content!,2.97
+122,Instagram,How can I get in touch?,3.47
+123,Facebook,This was super helpful. Call me at 919-985-3342.,3.58
+124,Instagram,This was super helpful. SSN 123-45-6789 (should be removed).,3.26
+125,Facebook,This was super helpful. Email: user148@example.org,3.34
+126,YouTube,Loved this content!,3.69
+127,YouTube,How can I get in touch? Call me at 919-259-3024.,3.15
+128,Instagram,Where can I download?,3.05
+129,YouTube,Great work by the team. Call me at 919-554-7462.,2.86
+130,Instagram,Great work by the team.,3.21
+131,Facebook,Where can I download?,3.57
+132,Instagram,Please share more details. Call me at 919-277-1412.,3.44
+133,Instagram,This was super helpful.,2.96
+134,YouTube,Loved this content!,2.99
+135,Facebook,How can I get in touch?,3.07
+136,Instagram,Loved this content!,3.27
+137,Facebook,Great work by the team. Call me at 919-835-4893.,3.15
+138,Instagram,This was super helpful.,3.25
+139,Instagram,Great work by the team. Email: user434@example.org,3.27
+140,Facebook,This was super helpful.,3.13
+141,Facebook,Loved this content!,3.19
+142,Instagram,How can I get in touch?,3.25
+143,Instagram,Where can I download?,3.18
+144,Facebook,How can I get in touch?,3.33
+145,Instagram,Please share more details. Email: user277@example.org,3.67
+146,Facebook,This was super helpful.,3.35
+147,YouTube,How can I get in touch? Email: user265@example.org,3.21
+148,Instagram,Loved this content!,2.78
+149,Instagram,Where can I download? Call me at 919-251-9730.,3.3
+150,Facebook,Please share more details.,2.71
+151,YouTube,Where can I download?,2.85
+152,Facebook,Great work by the team.,3.41
+153,Facebook,Loved this content! Call me at 919-342-3372.,3.38
+154,Facebook,Where can I download?,3.16
+155,Instagram,How can I get in touch?,2.77
+156,Facebook,Where can I download?,3.11
+157,YouTube,Great work by the team.,3.03
+158,Instagram,This was super helpful.,3.36
+159,YouTube,How can I get in touch? Call me at 919-110-9915. Email: user704@example.org,3.76
+160,YouTube,Please share more details. Call me at 919-709-2452.,3.25
+161,YouTube,How can I get in touch?,3.01
+162,Facebook,Great work by the team.,2.91
+163,Facebook,Great work by the team.,3.19
+164,YouTube,Loved this content!,3.16
+165,Instagram,This was super helpful.,2.91
+166,Instagram,Loved this content!,3.23
+167,Instagram,This was super helpful.,2.91
+168,Instagram,Great work by the team.,3.48
+169,YouTube,Great work by the team.,3.47
+170,Facebook,Where can I download?,3.47
+171,Instagram,Where can I download? SSN 123-45-6789 (should be removed).,3.08
+172,Instagram,Great work by the team.,3.33
+173,Instagram,Where can I download? Call me at 919-546-2046.,3.17
+174,YouTube,How can I get in touch?,3.1
+175,YouTube,How can I get in touch? SSN 123-45-6789 (should be removed).,3.12
+176,Instagram,Where can I download?,2.88
+177,Facebook,Great work by the team.,2.84
+178,Facebook,Where can I download?,3.4
+179,Facebook,Please share more details.,3.15
+180,YouTube,Loved this content!,3.25
+181,Facebook,This was super helpful. Email: user745@example.org,3.45
+182,Facebook,Please share more details.,2.77
+183,Facebook,Where can I download?,3.0
+184,Instagram,This was super helpful. Email: user788@example.org,3.24
+185,Facebook,Where can I download?,3.3
+186,YouTube,Please share more details. SSN 123-45-6789 (should be removed).,3.11
+187,YouTube,Great work by the team.,3.46
+188,YouTube,Please share more details.,3.25
+189,YouTube,This was super helpful. Call me at 919-360-1842.,2.9
+190,YouTube,Great work by the team. Call me at 919-270-4960.,2.97
+191,YouTube,Great work by the team.,3.4
+192,Instagram,How can I get in touch?,3.32
+193,YouTube,This was super helpful.,2.73
+194,Instagram,Great work by the team.,3.54
+195,YouTube,Where can I download?,3.35
+196,Facebook,Please share more details. Call me at 919-355-8076. Email: user462@example.org,3.54
+197,YouTube,Where can I download?,3.1
+198,YouTube,This was super helpful. Call me at 919-531-5411.,3.13
+199,Facebook,Great work by the team.,2.92
+200,Instagram,Please share more details.,3.83
+201,Facebook,Loved this content! Call me at 919-971-5596.,3.16
+202,Instagram,This was super helpful.,3.6
+203,Instagram,Please share more details. Call me at 919-167-2860. Email: user156@example.org,3.04
+204,YouTube,This was super helpful.,3.24
+205,Instagram,Please share more details. Call me at 919-330-3385.,2.78
+206,YouTube,Great work by the team. Call me at 919-457-7322.,3.1
+207,Facebook,Great work by the team.,3.45
+208,Facebook,This was super helpful. Call me at 919-430-7546.,2.89
+209,Facebook,This was super helpful.,3.47
+210,YouTube,Where can I download?,3.28
+211,YouTube,Please share more details.,2.94
+212,YouTube,Great work by the team. Email: user761@example.org,3.07
+213,YouTube,Where can I download? SSN 123-45-6789 (should be removed).,3.09
+214,Instagram,Where can I download? Email: user100@example.org,3.19
+215,Facebook,Loved this content! SSN 123-45-6789 (should be removed).,3.07
+216,YouTube,This was super helpful.,2.99
+217,Facebook,Where can I download? Call me at 919-579-8952.,3.12
+218,Facebook,Where can I download?,2.94
+219,YouTube,Great work by the team. Email: user738@example.org,2.88
+220,Facebook,This was super helpful. Call me at 919-974-4996.,3.19
